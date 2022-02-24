@@ -4,7 +4,7 @@
 Al deployar este contrato vamos a recibir 20 tokens, para poder superar este nivel, tenemos que poseer más de 20 tokens (muchos más que 20).
 
 ## Contrato
-```
+```Solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.6.0;
 
