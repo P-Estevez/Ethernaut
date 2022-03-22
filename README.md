@@ -13,3 +13,6 @@ La idea es realizar una guía para principiantes en español, se asumen conocimi
 - [3 - Coin Flip](https://github.com/P-Estevez/Ethernaut/commit/be1dba09fca9c710d0423465465ca8b2230a300d)
 - [4 - Telephone](https://github.com/P-Estevez/Ethernaut/commit/44cc90ab7927ca58371facb73e7fa1d1a3b02a75)
 - [5 - Token](https://github.com/P-Estevez/Ethernaut/commit/406e664be753976c291ea1c07a86f9192b7f770d)
+- [6 - Delegation](https://github.com/P-Estevez/Ethernaut/blob/main/6-Delegation.md)
+- [7 - Force](https://github.com/P-Estevez/Ethernaut/blob/main/7-Force.md)
+- [8 - Vault](https://github.com/P-Estevez/Ethernaut/blob/main/8-Vault.md)
