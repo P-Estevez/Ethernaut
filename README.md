@@ -16,3 +16,5 @@ La idea es realizar una guía para principiantes en español, se asumen conocimi
 - [6 - Delegation](https://github.com/P-Estevez/Ethernaut/blob/main/6-Delegation.md)
 - [7 - Force](https://github.com/P-Estevez/Ethernaut/blob/main/7-Force.md)
 - [8 - Vault](https://github.com/P-Estevez/Ethernaut/blob/main/8-Vault.md)
+- [9 - King](https://github.com/P-Estevez/Ethernaut/blob/main/9-King.md)
+- [10 - Re-entrancy](https://github.com/P-Estevez/Ethernaut/blob/main/10-Re-entrancy.md)
